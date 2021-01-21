@@ -9,7 +9,7 @@
     "helmet": "^3.22.0",
     "pug": "^2.0.4",
     "redis": "^3.0.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
